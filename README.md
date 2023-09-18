@@ -1,1 +1,0 @@
-# sdxl-mage
